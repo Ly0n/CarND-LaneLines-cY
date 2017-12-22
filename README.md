@@ -3,9 +3,6 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-Overview
-
-
 Finding lanes lines is an important step in localization of the car relative to the road.
 As human driver uses the lane lines as an fundamental information for pathway of the road.
 In a real world scenario depending only on visible lanes can be critical, but it a solid landmark that 
