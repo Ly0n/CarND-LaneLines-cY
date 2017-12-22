@@ -1,7 +1,7 @@
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-[![Live Demo](https://raw.githubusercontent.com/Ly0n/CarND-LaneLines-cY/master/video_out/solidWhiteRight.mp4)](https://raw.githubusercontent.com/Ly0n/CarND-LaneLines-cY/master/video_out/solidWhiteRight.mp4)
+[![Live Demo](https://raw.githubusercontent.com/Ly0n/CarND-LaneLines-cY/master/video_out/solidWhiteRight.jpg)](https://raw.githubusercontent.com/Ly0n/CarND-LaneLines-cY/master/video_out/solidWhiteRight.mp4)
 
 
 Finding lanes lines is an important step in localization of the car relative to the road.
