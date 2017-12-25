@@ -20,10 +20,9 @@ should be used when available.
 
 1. This approach will not hold for complex lane marks in city scenarios since we are only able to detect lanes in driving direction.
 2. We do not use any model for the lane dimensions. Every visible line in the driving direction could be seen as lane.
-3. The information of the last image have no influence on the next processing cycle. Using statistic over multiple images can reduce the influence of out outlier.
-4. ROI should be defined by the camera calibration.
-5. Lane model will fail in very curved roads.
-6. Thresholds for candy filter depend on a fixed camera setting.
+3. The information of the last image have no influence on the next processing cycle. Using statistic over multiple images can reduce the influence of outlier.
+4. Lane model will fail in very curved roads.
+5. Thresholds for candy filter depend on a fixed camera setting.
 
 ## Possible Improvements:
 
