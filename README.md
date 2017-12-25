@@ -31,6 +31,6 @@ should be used when available.
 3. Splines instead of straight lines let you detected curved lanes.
 4. Calculate the ROI from the camera calibration.
 5. Use AI to extract the lane marking.
-6. Use mono SLAM to extract 3d points from lane features.
+6. Use mono SLAM to extract 3D points from lane features.
 8. Match your data with global map lane data.
 9. Put all together into a big kalman filter.
